@@ -25,10 +25,6 @@ object frmCadastroPadrao: TfrmCadastroPadrao
     ActiveCard = CardPesquisa
     Caption = 'PnlPrincipal'
     TabOrder = 0
-    ExplicitLeft = 40
-    ExplicitTop = 56
-    ExplicitWidth = 300
-    ExplicitHeight = 200
     object CardCadastro: TCard
       Left = 1
       Top = 1
@@ -37,9 +33,6 @@ object frmCadastroPadrao: TfrmCadastroPadrao
       Caption = 'CardCadastro'
       CardIndex = 0
       TabOrder = 0
-      ExplicitLeft = 2
-      ExplicitWidth = 888
-      ExplicitHeight = 557
       object Panel1: TPanel
         AlignWithMargins = True
         Left = 3
@@ -50,8 +43,6 @@ object frmCadastroPadrao: TfrmCadastroPadrao
         Color = 16729655
         ParentBackground = False
         TabOrder = 0
-        ExplicitLeft = 5
-        ExplicitTop = 492
         object btnSalvar: TButton
           AlignWithMargins = True
           Left = 652
@@ -73,8 +64,6 @@ object frmCadastroPadrao: TfrmCadastroPadrao
           Images = ImageList1
           ParentFont = False
           TabOrder = 0
-          ExplicitLeft = 666
-          ExplicitTop = -66
         end
         object btnCancelar: TButton
           AlignWithMargins = True
@@ -98,7 +87,6 @@ object frmCadastroPadrao: TfrmCadastroPadrao
           ParentFont = False
           TabOrder = 1
           OnClick = btnCancelarClick
-          ExplicitLeft = 759
         end
       end
     end
@@ -110,10 +98,6 @@ object frmCadastroPadrao: TfrmCadastroPadrao
       Caption = 'CardPesquisa'
       CardIndex = 1
       TabOrder = 1
-      ExplicitLeft = 0
-      ExplicitTop = 0
-      ExplicitWidth = 185
-      ExplicitHeight = 41
       object PnlPesquisa: TPanel
         AlignWithMargins = True
         Left = 3
@@ -125,8 +109,6 @@ object frmCadastroPadrao: TfrmCadastroPadrao
         Color = 16729655
         ParentBackground = False
         TabOrder = 0
-        ExplicitLeft = 4
-        ExplicitTop = 4
         object Label1: TLabel
           Left = 16
           Top = 21
@@ -168,8 +150,6 @@ object frmCadastroPadrao: TfrmCadastroPadrao
           Images = ImageList1
           ParentFont = False
           TabOrder = 1
-          ExplicitLeft = 760
-          ExplicitTop = 8
         end
       end
       object PnlPesquisaBotoes: TPanel
@@ -182,7 +162,6 @@ object frmCadastroPadrao: TfrmCadastroPadrao
         Color = 16729655
         ParentBackground = False
         TabOrder = 1
-        ExplicitLeft = 2
         object btnImprimir: TButton
           AlignWithMargins = True
           Left = 387
@@ -204,7 +183,6 @@ object frmCadastroPadrao: TfrmCadastroPadrao
           Images = ImageList1
           ParentFont = False
           TabOrder = 0
-          ExplicitTop = 2
         end
         object btnFechar: TButton
           AlignWithMargins = True
@@ -228,8 +206,6 @@ object frmCadastroPadrao: TfrmCadastroPadrao
           ParentFont = False
           TabOrder = 1
           OnClick = btnFecharClick
-          ExplicitLeft = 770
-          ExplicitTop = 2
         end
         object btnAdicionar: TButton
           AlignWithMargins = True
@@ -277,7 +253,6 @@ object frmCadastroPadrao: TfrmCadastroPadrao
           ParentFont = False
           TabOrder = 3
           OnClick = btnAlterarClick
-          ExplicitTop = 2
         end
         object btnExcluir: TButton
           AlignWithMargins = True
@@ -300,7 +275,6 @@ object frmCadastroPadrao: TfrmCadastroPadrao
           Images = ImageList1
           ParentFont = False
           TabOrder = 4
-          ExplicitTop = 2
         end
       end
       object PnlGrid: TPanel
@@ -311,10 +285,6 @@ object frmCadastroPadrao: TfrmCadastroPadrao
         Height = 402
         Align = alClient
         TabOrder = 2
-        ExplicitLeft = 368
-        ExplicitTop = 224
-        ExplicitWidth = 185
-        ExplicitHeight = 41
         object DBGrid1: TDBGrid
           Left = 1
           Top = 1

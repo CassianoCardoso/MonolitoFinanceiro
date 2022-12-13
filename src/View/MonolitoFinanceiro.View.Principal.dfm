@@ -14,11 +14,43 @@ object frmPrincipal: TfrmPrincipal
   OldCreateOrder = False
   Position = poScreenCenter
   WindowState = wsMaximized
+  OnCreate = FormCreate
   PixelsPerInch = 96
   TextHeight = 13
+  object Panel1: TPanel
+    Left = 0
+    Top = 0
+    Width = 942
+    Height = 528
+    Align = alClient
+    Color = 16729655
+    ParentBackground = False
+    TabOrder = 0
+    ExplicitLeft = 296
+    ExplicitTop = 216
+    ExplicitWidth = 185
+    ExplicitHeight = 41
+    object Panel2: TPanel
+      AlignWithMargins = True
+      Left = 4
+      Top = 41
+      Width = 917
+      Height = 483
+      Margins.Top = 40
+      Margins.Right = 20
+      Align = alClient
+      Color = 16423224
+      ParentBackground = False
+      TabOrder = 0
+      ExplicitLeft = 304
+      ExplicitTop = 232
+      ExplicitWidth = 185
+      ExplicitHeight = 41
+    end
+  end
   object MainMenu1: TMainMenu
-    Left = 104
-    Top = 80
+    Left = 288
+    Top = 24
     object mnuCadastro: TMenuItem
       Caption = 'Cadastros'
       object mnuCadastroPdrao: TMenuItem

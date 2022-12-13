@@ -7,11 +7,14 @@
     <Transaction>2022/03/28 19:13:31.000.063,=C:\Users\Cassiano\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2022/08/06 18:41:34.000.551,=C:\Users\Cassiano\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2022/12/02 11:26:43.000.347,=C:\Users\Cassiano\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2022/12/02 11:30:35.000.870,E:\DELPHI\Criando um  sistema financeiro em  Delphi Monolito\src\View\MonolitoFinanceiro.View.Principal.pas=C:\Users\Cassiano\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2022/12/02 11:30:35.000.870,E:\DELPHI\Criando um  sistema financeiro em  Delphi Monolito\src\View\MonolitoFinanceiro.View.Principal.dfm=C:\Users\Cassiano\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2022/12/02 11:31:07.000.685,E:\DELPHI\Criando um  sistema financeiro em  Delphi Monolito\MonolitoFinanceiro.dproj=C:\Users\Cassiano\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
-    <Transaction>2022/12/08 13:25:57.313,=E:\DELPHI\Criando um  sistema financeiro em  Delphi Monolito\Unit1.pas</Transaction>
-    <Transaction>2022/12/08 13:27:18.354,E:\DELPHI\Criando um  sistema financeiro em  Delphi Monolito\src\View\MonolitoFinanceiro.View.CadastroPadrao.dfm=E:\DELPHI\Criando um  sistema financeiro em  Delphi Monolito\Unit1.dfm</Transaction>
-    <Transaction>2022/12/08 13:27:18.354,E:\DELPHI\Criando um  sistema financeiro em  Delphi Monolito\src\View\MonolitoFinanceiro.View.CadastroPadrao.pas=E:\DELPHI\Criando um  sistema financeiro em  Delphi Monolito\Unit1.pas</Transaction>
+    <Transaction>2022/12/02 11:30:35.000.870,C:\Users\Cassiano\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\DELPHI\Criando um  sistema financeiro em  Delphi Monolito\src\View\MonolitoFinanceiro.View.Principal.dfm</Transaction>
+    <Transaction>2022/12/02 11:30:35.000.870,C:\Users\Cassiano\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\DELPHI\Criando um  sistema financeiro em  Delphi Monolito\src\View\MonolitoFinanceiro.View.Principal.pas</Transaction>
+    <Transaction>2022/12/02 11:31:07.000.685,C:\Users\Cassiano\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\DELPHI\Criando um  sistema financeiro em  Delphi Monolito\MonolitoFinanceiro.dproj</Transaction>
+    <Transaction>2022/12/08 13:25:57.000.313,=E:\DELPHI\Criando um  sistema financeiro em  Delphi Monolito\Unit1.pas</Transaction>
+    <Transaction>2022/12/08 13:27:18.000.354,E:\DELPHI\Criando um  sistema financeiro em  Delphi Monolito\Unit1.pas=E:\DELPHI\Criando um  sistema financeiro em  Delphi Monolito\src\View\MonolitoFinanceiro.View.CadastroPadrao.pas</Transaction>
+    <Transaction>2022/12/08 13:27:18.000.354,E:\DELPHI\Criando um  sistema financeiro em  Delphi Monolito\Unit1.dfm=E:\DELPHI\Criando um  sistema financeiro em  Delphi Monolito\src\View\MonolitoFinanceiro.View.CadastroPadrao.dfm</Transaction>
+    <Transaction>2022/12/13 09:39:16.347,=E:\DELPHI\Criando um  sistema financeiro em  Delphi Monolito\Unit1.pas</Transaction>
+    <Transaction>2022/12/13 09:40:19.340,E:\DELPHI\Criando um  sistema financeiro em  Delphi Monolito\src\View\MonolitoFinanceiro.View.Splash.dfm=E:\DELPHI\Criando um  sistema financeiro em  Delphi Monolito\Unit1.dfm</Transaction>
+    <Transaction>2022/12/13 09:40:19.340,E:\DELPHI\Criando um  sistema financeiro em  Delphi Monolito\src\View\MonolitoFinanceiro.View.Splash.pas=E:\DELPHI\Criando um  sistema financeiro em  Delphi Monolito\Unit1.pas</Transaction>
   </Transactions>
 </BorlandProject>

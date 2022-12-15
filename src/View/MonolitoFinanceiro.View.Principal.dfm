@@ -26,10 +26,6 @@ object frmPrincipal: TfrmPrincipal
     Color = 16729655
     ParentBackground = False
     TabOrder = 0
-    ExplicitLeft = 296
-    ExplicitTop = 216
-    ExplicitWidth = 185
-    ExplicitHeight = 41
     object Panel2: TPanel
       AlignWithMargins = True
       Left = 4
@@ -39,13 +35,12 @@ object frmPrincipal: TfrmPrincipal
       Margins.Top = 40
       Margins.Right = 20
       Align = alClient
+      BevelOuter = bvNone
       Color = 16423224
       ParentBackground = False
       TabOrder = 0
-      ExplicitLeft = 304
-      ExplicitTop = 232
-      ExplicitWidth = 185
-      ExplicitHeight = 41
+      ExplicitLeft = 0
+      ExplicitTop = 45
     end
   end
   object MainMenu1: TMainMenu
